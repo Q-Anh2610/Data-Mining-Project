@@ -1,0 +1,5 @@
+{
+  "offline_data_title": "Yêu cầu dữ liệu Offline",
+  "offline_data_desc": "Để sử dụng tính năng dịch khi không có mạng, bạn cần tải gói ngôn ngữ AI (.tflite).\n\n1. Vào mục Cài đặt.\n2. Chọn 'Tải về gói Offline'.\n3. Chờ quá trình hoàn tất.",
+  "i_understand": "TÔI ĐÃ HIỂU"
+}

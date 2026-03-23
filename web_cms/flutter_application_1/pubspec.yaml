@@ -1,0 +1,36 @@
+name: flutter_application_1
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.11.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Các thư viện bạn đang sử dụng trong dự án
+  connectivity_plus: ^5.0.2
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^8.1.6
+  http: ^1.6.0
+  path_provider: ^2.1.5
+  sqflite: ^2.4.2
+  supabase_flutter: ^2.12.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Cấu hình đường dẫn để ứng dụng nhận diện được ảnh Logo của bạn
+  assets:
+    - assets/images/logo.jpg
+    - assets/images/earth.jpg
+    - assets/images/earth2.jpg

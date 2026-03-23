@@ -1,0 +1,5 @@
+{
+  "offline_data_title": "Offline Data Required",
+  "offline_data_desc": "To use translation without internet, you need to download the AI language pack (.tflite).\n\n1. Go to Settings.\n2. Select 'Download Offline Pack'.\n3. Wait for completion.",
+  "i_understand": "I UNDERSTAND"
+}
