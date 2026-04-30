@@ -1,0 +1,12 @@
+# Bỏ qua các file chứa mật khẩu
+.env
+
+# Bỏ qua các file dữ liệu nặng
+*.csv
+*.xlsx
+*.json
+
+# Bỏ qua các file rác của Python và hình ảnh xuất ra
+__pycache__/
+*.html
+.ipynb_checkpoints/
