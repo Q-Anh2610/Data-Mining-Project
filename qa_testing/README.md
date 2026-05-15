@@ -35,10 +35,11 @@ Mở file test.ipynb bằng Jupyter Notebook hoặc VS Code.
 
 ### Chạy các Cell:
 
-* Cell 1: Đọc dữ liệu từ test_english.csv, thực hiện dịch Anh-Việt và lưu vào compareEnVi.csv.
+* Cell 1,2: Đọc dữ liệu từ test_english.csv, thực hiện dịch Anh-Việt và lưu vào compareEnVi.csv.
 
 
-* Cell 2: Đọc dữ liệu từ test_vietnamese.csv, thực hiện dịch Việt-Anh và lưu vào compareViEn.csv.
+* Cell 3: Đọc dữ liệu từ test_vietnamese.csv, thực hiện dịch Việt-Anh và lưu vào compareViEn.csv.
+
 ## Mô tả kết quả đầu ra
 Sau khi thực thi, các file `compareEnVi.csv` và `compareViEn.csv` sẽ có cấu trúc như sau:
 
