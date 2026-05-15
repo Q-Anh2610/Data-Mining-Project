@@ -1,7 +1,7 @@
 ## Tổng quan
 Kiểm thử Hiệu năng Dịch thuật (API Team vs. Google Translate)
 
-Dự án này được thiết kế để kiểm thử và so sánh chất lượng dịch thuật giữa API của nhóm và công cụ Google Translate (thông qua thư viện `deep_translator`). Quá trình kiểm thử được thực hiện trên cả hai chiều: Tiếng Anh sang Tiếng Việt (En-Vi) và Tiếng Việt sang Tiếng Anh (Vi-En).
+Thư mục này được thiết kế để kiểm thử và so sánh chất lượng dịch thuật giữa API của nhóm và công cụ Google Translate (thông qua thư viện `deep_translator`). Quá trình kiểm thử được thực hiện trên cả hai chiều: Tiếng Anh sang Tiếng Việt (En-Vi) và Tiếng Việt sang Tiếng Anh (Vi-En).
 
 Mục tiêu chính là tự động hóa việc gọi API dịch thuật, so sánh kết quả trả về với Google Translate và xuất ra báo cáo chi tiết dưới dạng tệp CSV để đánh giá độ chính xác (dựa trên việc so khớp chuỗi ký tự).
 
