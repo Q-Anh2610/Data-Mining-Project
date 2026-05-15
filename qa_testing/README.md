@@ -25,3 +25,14 @@ Cài đặt thông qua pip:
 pip install deep_translator
 ```
 Ngoài ra, đảm bảo đã cài đặt các thư viện bổ trợ khác như pandas, requests.
+## Hướng dẫn sử dụng
+**1**Chuẩn bị: Mở thư mục qa_testing. Đảm bảo hai tệp dữ liệu mẫu (test_english.csv và test_vietnamese.csv) đã có sẵn.
+
+**2**Thực thi: Mở file test.ipynb bằng Jupyter Notebook hoặc VS Code.
+
+**3**Chạy các Cell:
+
+Cell 1: Đọc dữ liệu từ test_english.csv, thực hiện dịch Anh-Việt và lưu vào compareEnVi.csv.
+
+
+Cell 2: Đọc dữ liệu từ test_vietnamese.csv, thực hiện dịch Việt-Anh và lưu vào compareViEn.csv.
