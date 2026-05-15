@@ -17,22 +17,36 @@ Tất cả các tệp tin liên quan đều nằm trong thư mục `qa_testing`:
     └── compareViEn.csv           # Kết quả so sánh dịch Việt -> Anh (Dữ liệu đầu ra)
 ```
 ## Yêu cầu hệ thống
-Để chạy được mã nguồn trong test.ipynb,cần cài đặt thư viện deep_translator để sử dụng Google Translator API.
+* Để chạy được mã nguồn trong test.ipynb,cần cài đặt thư viện deep_translator để sử dụng Google Translator API.
 
 Cài đặt thông qua pip:
 
 ```bash
 pip install deep_translator
 ```
-Ngoài ra, đảm bảo đã cài đặt các thư viện bổ trợ khác như pandas, requests.
+* Ngoài ra, đảm bảo đã cài đặt các thư viện bổ trợ khác như pandas, requests.
+* Cần có kết nối internet để gọi API dịch thuật.
 ## Hướng dẫn sử dụng
-**1**Chuẩn bị: Mở thư mục qa_testing. Đảm bảo hai tệp dữ liệu mẫu (test_english.csv và test_vietnamese.csv) đã có sẵn.
+### Chuẩn bị: 
+Mở thư mục qa_testing. Đảm bảo hai tệp dữ liệu mẫu (test_english.csv và test_vietnamese.csv) đã có sẵn.
 
-**2**Thực thi: Mở file test.ipynb bằng Jupyter Notebook hoặc VS Code.
+### Thực thi: 
+Mở file test.ipynb bằng Jupyter Notebook hoặc VS Code.
 
-**3**Chạy các Cell:
+### Chạy các Cell:
 
-Cell 1: Đọc dữ liệu từ test_english.csv, thực hiện dịch Anh-Việt và lưu vào compareEnVi.csv.
+* Cell 1: Đọc dữ liệu từ test_english.csv, thực hiện dịch Anh-Việt và lưu vào compareEnVi.csv.
 
 
-Cell 2: Đọc dữ liệu từ test_vietnamese.csv, thực hiện dịch Việt-Anh và lưu vào compareViEn.csv.
+* Cell 2: Đọc dữ liệu từ test_vietnamese.csv, thực hiện dịch Việt-Anh và lưu vào compareViEn.csv.
+## Mô tả kết quả đầu ra
+Sau khi thực thi, các file `compareEnVi.csv` và `compareViEn.csv` sẽ có cấu trúc như sau:
+
+| Cột | Ý nghĩa | Ví dụ nội dung |
+| :--- | :--- | :--- |
+| **source** | Câu gốc cần dịch | "Hello, how are you?" |
+| **api_translation** | Kết quả từ API của nhóm | "Xin chào, bạn khỏe không?" |
+| **google_translation** | Kết quả từ Google Translate | "Chào bạn, bạn thế nào?" |
+| **match** | So sánh kết quả (`==`) | `False` (do khác từ ngữ) |
+
+> **Lưu ý:** Cột `match` chỉ trả về **True** khi hai kết quả dịch giống nhau hoàn toàn từng ký tự.
