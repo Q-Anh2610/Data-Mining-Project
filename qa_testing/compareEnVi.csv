@@ -1,0 +1,101 @@
+﻿source,api_translation,google_translation,match
+﻿Hello!,Xin chào!,﻿Xin chào!,False
+Thank you very much.,Cảm ơn rất nhiều.,Cảm ơn rất nhiều.,False
+How are you?,Anh khỏe không?,Bạn có khỏe không?,False
+My name is John.,Tên tôi là John.,Tên tôi là John.,True
+What is this?,Cái gì đây?,Đây là cái gì?,False
+I like apples.,Tôi thích táo.,Tôi thích táo.,True
+Where is the bus stop?,Trạm xe buýt ở đâu?,Trạm xe buýt ở đâu?,True
+It is a sunny day.,Hôm nay là một ngày nắng đẹp.,Đó là một ngày nắng.,False
+Good morning.,Chào buổi sáng.,Chào buổi sáng.,False
+I am very hungry.,Tôi đói lắm rồi.,Tôi rất đói.,False
+She is reading a book.,Cô ấy đang đọc sách.,Cô ấy đang đọc một cuốn sách.,False
+Please open the door.,Làm ơn mở cửa ra.,Xin hãy mở cửa.,False
+See you tomorrow.,Hẹn mai gặp lại.,Hẹn gặp lại vào ngày mai.,False
+What time is it?,Mấy giờ rồi?,Bây giờ là mấy giờ?,False
+I am a teacher.,Tôi là một giáo viên.,Tôi là một giáo viên.,True
+The car is fast.,Chiếc xe chạy nhanh quá.,Xe chạy nhanh.,False
+Can you speak English?,Anh nói được tiếng Anh không?,Bạn có thể nói tiếng Anh không?,False
+This is my phone.,Đây là điện thoại của tôi.,Đây là điện thoại của tôi.,True
+I need some water.,Tôi cần ít nước.,Tôi cần một ít nước.,False
+I have a question.,Tôi có một câu hỏi.,Tôi có một câu hỏi.,True
+Make yourself at home.,Cứ tự nhiên như ở nhà.,Tự nhiên như ở nhà.,False
+It’s up to you.,Tùy anh thôi.,Tùy bạn đấy.,False
+I’m running late.,Tôi trễ rồi.,Tôi sắp muộn rồi.,False
+Long time no see.,Lâu rồi không gặp.,Đã lâu không gặp.,False
+Give me a hand.,Giúp tôi một tay.,Giúp tôi một tay.,True
+Take care of yourself.,Bảo trọng nhé.,Hãy chăm sóc bản thân.,False
+I don't think so.,Tôi không nghĩ vậy.,Tôi không nghĩ vậy.,True
+Never mind.,Đừng bận tâm.,Đừng bận tâm.,True
+That sounds great.,Nghe hay đấy.,Điều đó nghe có vẻ tuyệt vời.,False
+Keep in touch!,Giữ liên lạc!,Giữ liên lạc!,True
+I’m looking for my bag.,Tôi đang tìm túi xách.,Tôi đang tìm túi của tôi.,False
+What's the matter?,Có chuyện gì vậy?,Có chuyện gì vậy?,True
+Piece of cake.,Dễ như ăn bánh.,Miếng bánh.,False
+I’m on my way.,Tôi đang trên đường tới đây.,Tôi đang trên đường đi.,False
+"Despite the heavy rain, the outdoor concert continued as scheduled, drawing thousands of enthusiastic fans.","Mặc dù mưa lớn, buổi hòa nhạc ngoài trời vẫn tiếp tục theo lịch trình, thu hút hàng ngàn người hâm mộ nhiệt tình.","Dù trời mưa to nhưng buổi hòa nhạc ngoài trời vẫn diễn ra như dự kiến, thu hút hàng nghìn người hâm mộ cuồng nhiệt.",False
+"The new software update, which was released last Tuesday, aims to fix several major security vulnerabilities.","Cập nhật phần mềm mới, được phát hành vào thứ ba tuần trước, nhằm sửa chữa một số yếu tố an ninh chính.","Bản cập nhật phần mềm mới, được phát hành vào thứ Ba tuần trước, nhằm mục đích khắc phục một số lỗ hổng bảo mật lớn.",False
+"Had I known about the severe traffic jam on the highway, I would have taken an alternative route to the airport.","Nếu tôi biết về vụ tắc đường nghiêm trọng trên đường cao tốc, tôi đã chọn con đường khác để đến sân bay.","Nếu tôi biết về tình trạng ùn tắc giao thông nghiêm trọng trên đường cao tốc, tôi đã chọn một tuyến đường khác để đến sân bay.",False
+"By the time we arrive at the conference center, the keynote speaker will have already finished his presentation.","Khi chúng tôi đến trung tâm hội nghị, diễn giả chính đã hoàn thành bài thuyết trình của mình.","Khi chúng ta đến trung tâm hội nghị, diễn giả chính đã hoàn thành bài thuyết trình của mình.",False
+It goes without saying that effective communication is crucial for the success of any cross-functional team.,Không cần phải nói rằng giao tiếp hiệu quả là tối quan trọng cho sự thành công của bất kỳ đội ngũ xuyên chức năng nào.,Không cần phải nói rằng giao tiếp hiệu quả là rất quan trọng cho sự thành công của bất kỳ nhóm đa chức năng nào.,False
+"Not only did she manage to complete the project ahead of the deadline, but she also exceeded all expectations.","Cô không chỉ hoàn thành dự án trước hạn chót, mà còn vượt quá mọi kỳ vọng.",Cô ấy không chỉ hoàn thành dự án trước thời hạn mà còn vượt quá mọi mong đợi.,False
+"The economic downturn has significantly impacted local businesses, forcing many to either downsize or close completely.","Sự suy thoái kinh tế đã ảnh hưởng đáng kể đến các doanh nghiệp địa phương, khiến nhiều người giảm hoặc hoàn toàn đóng cửa.","Suy thoái kinh tế đã ảnh hưởng đáng kể đến các doanh nghiệp địa phương, buộc nhiều doanh nghiệp phải thu hẹp quy mô hoặc đóng cửa hoàn toàn.",False
+"Taking into consideration all the provided feedback, the management board has decided to revise the company's leave policy.","Xem xét tất cả các phản hồi được cung cấp, ban quản lý đã quyết định xem xét lại chính sách rời bỏ công ty.","Xem xét tất cả các phản hồi được cung cấp, ban lãnh đạo đã quyết định sửa đổi chính sách nghỉ phép của công ty.",False
+"No matter how hard he tried to explain the situation, his supervisor remained highly skeptical of his excuses.","Dù có cố gắng giải thích vấn đề đến mức nào đi nữa, cấp trên của ông vẫn rất hoài nghi về lý do của mình.",Cho dù anh ta có cố gắng giải thích tình huống này đến mức nào thì người cấp trên của anh ta vẫn hết sức nghi ngờ những lời bào chữa của anh ta.,False
+"The revolutionary medical device, developed by a team of young engineers, is expected to save millions of lives globally.","Thiết bị y tế cách mạng, được phát triển bởi một nhóm kỹ sư trẻ, được mong đợi để cứu hàng triệu mạng sống trên toàn cầu.","Thiết bị y tế mang tính cách mạng này được phát triển bởi đội ngũ kỹ sư trẻ, dự kiến ​​sẽ cứu sống hàng triệu người trên toàn cầu.",False
+"Should you have any further questions regarding the contract terms, please do not hesitate to contact our legal department.","Nếu bạn có thêm bất kỳ câu hỏi nào liên quan đến các điều khoản hợp đồng, xin vui lòng liên lạc với bộ phận pháp lý của chúng tôi.","Nếu bạn có bất kỳ câu hỏi nào liên quan đến các điều khoản hợp đồng, vui lòng liên hệ với bộ phận pháp lý của chúng tôi.",False
+Rarely have I seen such a breathtakingly beautiful sunset as the one we witnessed from the top of the mountain yesterday.,Tôi đã thấy một hoàng hôn đẹp tuyệt vời như một hoàng hôn mà chúng ta đã chứng kiến từ đỉnh núi ngày hôm qua.,Hiếm khi tôi được ngắm cảnh hoàng hôn đẹp đến nghẹt thở như cảnh chúng tôi chứng kiến ​​từ đỉnh núi ngày hôm qua.,False
+The findings of the recent survey suggest a strong correlation between social media usage and decreased attention spans among teenagers.,Các phát hiện của cuộc khảo sát gần đây cho thấy sự tương quan chặt chẽ giữa việc sử dụng phương tiện truyền thông xã hội và giảm sự chú ý giữa các thanh thiếu niên.,Những phát hiện của cuộc khảo sát gần đây cho thấy mối tương quan chặt chẽ giữa việc sử dụng mạng xã hội và sự suy giảm khả năng chú ý ở thanh thiếu niên.,False
+"While some argue that artificial intelligence will lead to massive job losses, others believe it will create new opportunities.","Trong khi một số người tranh luận rằng trí thông minh nhân tạo sẽ dẫn đến mất việc nặng nề, những người khác tin rằng nó sẽ tạo ra những cơ hội mới.",Trong khi một số người cho rằng trí tuệ nhân tạo sẽ dẫn đến tình trạng mất việc làm lớn thì những người khác lại tin rằng nó sẽ tạo ra những cơ hội mới.,False
+The CEO announced that the company would be expanding its operations into the Southeast Asian market by the end of next year.,CEO thông báo rằng công ty sẽ mở rộng các hoạt động của mình vào thị trường Đông Nam Á vào cuối năm tới.,Giám đốc điều hành thông báo rằng công ty sẽ mở rộng hoạt động sang thị trường Đông Nam Á vào cuối năm tới.,False
+"To be perfectly honest, I'm not entirely convinced that this new marketing strategy will yield the desired results.","Thành thật mà nói, tôi không hoàn toàn tin rằng chiến lược tiếp thị mới này sẽ tạo ra kết quả mong muốn.","Thành thật mà nói, tôi không hoàn toàn tin rằng chiến lược tiếp thị mới này sẽ mang lại kết quả mong muốn.",False
+Only after the contract had been signed did they realize that there were several hidden fees involved in the transaction.,"Chỉ sau khi hợp đồng được ký hợp đồng, họ mới nhận ra rằng có một số khoản phí bí mật liên quan đến giao dịch.","Chỉ sau khi hợp đồng được ký kết, họ mới nhận ra rằng có một số khoản phí ẩn liên quan đến giao dịch.",False
+"The ancient temple, which dates back to the 12th century, has recently undergone an extensive restoration process.","Đền thờ cổ xưa, có từ thế kỷ 12, gần đây đã trải qua một quá trình khôi phục rộng lớn.","Ngôi đền cổ có niên đại từ thế kỷ 12, gần đây đã trải qua quá trình trùng tu rộng rãi.",False
+"Despite facing numerous financial difficulties during its initial startup phase, the company eventually became a market leader.","Mặc dù phải đối mặt với nhiều khó khăn về tài chính trong giai đoạn khởi nghiệp đầu tiên, cuối cùng công ty trở thành một nhà lãnh đạo thị trường.","Mặc dù phải đối mặt với nhiều khó khăn tài chính trong giai đoạn khởi nghiệp ban đầu, công ty cuối cùng đã trở thành công ty dẫn đầu thị trường.",False
+We would be highly appreciative if you could provide us with a detailed quotation for the aforementioned products by Friday.,Chúng tôi rất biết ơn nếu ông có thể cung cấp cho chúng tôi một lời trích dẫn chi tiết về các sản phẩm được đề cập trước vào thứ Sáu.,Chúng tôi sẽ rất cảm kích nếu bạn có thể cung cấp cho chúng tôi báo giá chi tiết cho các sản phẩm nói trên trước thứ Sáu.,False
+The sudden surge in demand for electric vehicles has prompted traditional car manufacturers to accelerate their transition plans.,Sự gia tăng đột ngột về nhu cầu xe điện đã thúc đẩy các nhà sản xuất xe hơi truyền thống đẩy nhanh kế hoạch chuyển đổi của họ.,Nhu cầu về xe điện tăng đột biến đã thúc đẩy các nhà sản xuất ô tô truyền thống đẩy nhanh kế hoạch chuyển đổi.,False
+"Upon arriving at the hotel, we were informed that our reservation had been mistakenly canceled due to a system glitch.","Khi đến khách sạn, chúng tôi được thông báo là khu đất đã bị hủy nhầm do trục trặc hệ thống.","Khi đến khách sạn, chúng tôi được thông báo rằng đặt phòng của chúng tôi đã bị hủy nhầm do trục trặc hệ thống.",False
+It's high time the government took decisive action to address the escalating housing crisis in major metropolitan areas.,Đã đến lúc chính phủ phải hành động dứt khoát để giải quyết cuộc khủng hoảng nhà đất leo thang tại các khu vực đô thị lớn.,Đã đến lúc chính phủ phải hành động quyết liệt để giải quyết cuộc khủng hoảng nhà ở đang leo thang ở các khu vực đô thị lớn.,False
+The research paper delves into the psychological factors that influence consumer behavior in the fast fashion industry.,Tờ báo nghiên cứu nghiên cứu tìm hiểu các yếu tố tâm lý ảnh hưởng đến hành vi tiêu thụ trong ngành công nghiệp thời trang nhanh chóng.,Bài nghiên cứu đi sâu vào các yếu tố tâm lý ảnh hưởng đến hành vi của người tiêu dùng trong ngành thời trang nhanh.,False
+"Wrapped in a thick woolen blanket, she sat by the fireplace, sipping hot cocoa and listening to the howling wind outside.","Được quấn trong một tấm chăn len dày, bà ngồi cạnh lò sưởi, uống ca cao nóng và lắng nghe tiếng hú bên ngoài.","Quấn trong chiếc chăn len dày, cô ngồi bên lò sưởi, nhấm nháp ca cao nóng và lắng nghe tiếng gió hú bên ngoài.",False
+Deployment failed.,Triển khai thất bại.,Triển khai không thành công.,False
+[Trống],"Dịch bởi Vũ Hạnh, Mai Linh, Nga, Huy Tô, Yuki, Ann, Phương",[Trống],False
+[Khoảng trắng],[Khoíng trheng],[Khoan trắng],False
+1234567890,1234567890,1234567890,True
+314.159,314.159.,314.159,False
+!@#$%^&*(),{\cH00C1E5EC}@#$%^(),,False
+<b>Hello</b>,<b> Hello</b>,<b>Xin chào</b>,False
+<script>alert(1)</script>,<script>alert(1)</i>,<script>cảnh báo(1)</script>,False
+"""DROP TABLE users;""","""DROP người dùng tạm thời;""","""Người dùng DROP TABLE;""",False
+qwertyuiop,qwertyuop,qwertyuiop,False
+asdfghjkl123,Asdfghjkl123,asdfghjkl123,False
+Error 404: Not Found,Lỗi 404: Không tìm thấy,Lỗi 404: Không tìm thấy,True
+Sale 50% off!,Bán giảm 50%!,Giảm giá 50%!,False
+Contact: +84 987 654 321,Contact & mới: +84 987 624 321,Liên hệ: +84 987 654 321,False
+Email: test@email.com,Email: test@email.com,Email: test@email.com,True
+https://google.com,httpsgoogle.com,https://google.com,False
+Hello 👋,Xin chào,Xin chào 👋,False
+🐛 Bug detected!,Đã phát hiện bọ bọ cánh cứng!,🐛 Đã phát hiện lỗi!,False
+File_name_v1.0.pdf,Tên tập tin_v1.0.pdf,File_name_v1.0.pdf,False
+Hello,Xin chào,Xin chào,True
+hello world,Thế giới xin chào,xin chào thế giới,False
+HELLO WORLD,Thế giới vạn tuế.,XIN CHÀO THẾ GIỚI,False
+hElLo WoRlD,HElLo WoRlD,xin chào mọi người,False
+Good morning! How are you doing today?,"Chào buổi sáng, hôm nay anh thế nào?",Chào buổi sáng! Hôm nay bạn khỏe không?,False
+Welcome to Hà Nội.,Chào mừng đến với Hà N hết.,Chào mừng đến với Hà Nội.,False
+Pho is delicious.,Pho rất ngon.,Phở rất ngon.,False
+Ao dai is beautiful.,Ao dai đẹp quá.,Áo dài đẹp quá.,False
+$1,Một đồng,$1,False
+100 km/h,100 km/h,100 km/giờ,False
+10°C,10°C,10°C,True
+@username,@user name,@tên người dùng,False
+#hashtag_test,#hashg_ test #,#hashtag_test,False
+User's profile,Hồ sơ của người dùng,Hồ sơ người dùng,False
+A/B Testing,Kiểm tra A/B,Thử nghiệm A/B,False
+null,Bỏ,vô giá trị,False
+undefined,Chưa xác định,không xác định,False
+TRUE,Chính,ĐÚNG VẬY,False
+FALSE,SAI,SAI,True
+NaN,NaN,NaN,True
+Very very very very long text.,Rất dài.,Văn bản rất rất rất rất dài.,False
+Very very very very short text.,Rất ngắn gọn.,Văn bản rất rất rất rất ngắn.,False
