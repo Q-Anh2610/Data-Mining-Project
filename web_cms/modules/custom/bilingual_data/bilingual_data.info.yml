@@ -1,0 +1,5 @@
+name: Bilingual Data
+type: module
+description: 'Hiển thị bộ câu song ngữ Anh - Việt từ Supabase raw_data.'
+core_version_requirement: ^10 || ^11
+package: Custom

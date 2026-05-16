@@ -1,1 +1,1 @@
-# Data-Mining-Project
+# Data-Mining-Project\# Tên dự án\## Giới thiệuMô tả ngắn gọn về dự án.\## Thành viên\- Leader:\- AI Engineer:\- Data Engineer:\- Mobile Developer:\- Web Developer:\- QA / BA:\## Cấu trúc thư mụcdata\_ops/Chứa code crawl dữ liệu và xử lý data.ai\_service/Chứa code train AI model và API.mobile\_app/Chứa source code Flutter.web\_cms/Chứa cấu hình Drupal.bi\_dashboard/Chứa cấu hình Apache Superset.qa\_testing/Chứa tài liệu test và bug report.

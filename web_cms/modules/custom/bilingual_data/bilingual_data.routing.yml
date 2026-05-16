@@ -1,0 +1,15 @@
+bilingual_data.list:
+  path: '/admin/bilingual-data'
+  defaults:
+    _controller: '\Drupal\bilingual_data\Controller\BilingualDataController::list'
+    _title: 'Bộ câu song ngữ Anh - Việt'
+  requirements:
+    _permission: 'access administration pages'
+
+bilingual_data.translation_history:
+  path: '/admin/translation-history'
+  defaults:
+    _controller: '\Drupal\bilingual_data\Controller\TranslationHistoryController::list'
+    _title: 'Lịch sử dịch'
+  requirements:
+    _permission: 'access administration pages'
