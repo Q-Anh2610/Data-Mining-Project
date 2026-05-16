@@ -1,1 +1,29 @@
-web_cms/db_data/
+# Flutter generated/cache
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+
+# IDE/local
+**/.idea/
+**/.vscode/
+*.iml
+
+# Python virtual env/cache
+**/.venv/
+**/venv/
+**/__pycache__/
+*.pyc
+
+# Output/log
+*.log
+analyze_output.txt
+
+# Secret env
+.env
+**/.env
+
+# OS
+.DS_Store
+Thumbs.db
