@@ -6,6 +6,10 @@
 * `Mobile_En_Vi.ipynb`
 * `Mobile_Vi_En.ipynb`
 
+## Link code Colab
+https://colab.research.google.com/drive/1o8L9BvekrqGnB9Gcb5huOUu9LGPNsmaV?usp=sharing
+https://colab.research.google.com/drive/13CtsFT-RXApjhMfIbIaDmSd7oIC1q0bO?usp=sharing
+
 ## Kỹ thuật sử dụng
 Các notebook này thực hiện quy trình "ép cân" (Quantization) tự động bằng công cụ `optimum-cli`:
 1. **Export ONNX:** Chuyển đổi đồ thị tính toán của PyTorch sang định dạng ONNX.
