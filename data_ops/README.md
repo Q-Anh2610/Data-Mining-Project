@@ -7,7 +7,7 @@ Thư mục này chịu trách nhiệm cho toàn bộ Data Pipeline của dự á
 Hệ thống Data_Ops được chia thành 3 luồng xử lý chính:
 
 ### 1. Data Cleaning (Tiền xử lý & Làm sạch dữ liệu)
-* **Mục tiêu:** Chắt lọc 600,000 cặp câu Anh - Việt chất lượng cao từ hơn 1 triệu dòng dữ liệu thô (nguồn: https://huggingface.co/datasets/vinai/PhoMT).
+* **Mục tiêu:** Chắt lọc 600,000 cặp câu Anh - Việt chất lượng cao gần 3 triệu dòng dữ liệu thô (nguồn: https://huggingface.co/datasets/vinai/PhoMT).
 * **Kỹ thuật áp dụng:**
   * Xóa bỏ tags HTML, URLs, và khoảng trắng thừa.
   * Sử dụng **Regex Whitelist** chặn 100% các ngôn ngữ khác (Cyrillic/Nga, CJK/Trung-Nhật-Hàn, Emoji) và lỗi `#VALUE!` của Excel.
