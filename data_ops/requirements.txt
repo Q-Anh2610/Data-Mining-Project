@@ -1,0 +1,9 @@
+pandas==2.2.0
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+spacy==3.7.2
+sentence-transformers==2.3.1
+langdetect==1.0.9
+pyvis==0.3.2
+networkx==3.2.1
+python-dotenv==1.0.1

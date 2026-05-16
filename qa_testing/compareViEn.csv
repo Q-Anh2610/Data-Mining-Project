@@ -1,0 +1,101 @@
+﻿source,api_translation,google_translation,match
+﻿Chào bạn.,Hey.,﻿Hello.,False
+Bạn khỏe không?,How are you?,How are you?,True
+Tên tôi là Lan.,My name is Lan.,My name is Lan.,True
+Tôi đến từ Việt Nam.,I'm from Vietnam.,I come from Vietnam.,False
+Chúc một ngày tốt lành.,Have a nice day.,Have a nice day.,True
+Cái này là cái gì?,What is this?,What is this?,True
+Nó giá bao nhiêu?,How much does it cost?,How much does it cost?,True
+Tôi hiểu rồi.,I see.,I got it.,False
+Tôi không biết.,I do n't know.,I do not know.,False
+Làm ơn giúp tôi.,Please help me.,Please help me.,True
+Tôi thích xem phim.,I like to watch movies.,I like watching movies.,False
+Hôm nay trời đẹp.,It's a beautiful day.,The weather is beautiful today.,False
+Chúc mừng sinh nhật!,Happy birthday!,Happy birthday!,True
+Tôi muốn uống cà phê.,I'd like some coffee.,I want to drink coffee.,False
+Nhà vệ sinh ở đâu?,Where's the bathroom?,Where is the toilet?,False
+"Xin lỗi, tôi đến muộn.",Sorry I'm late.,"Sorry, I'm late.",False
+Hẹn gặp lại bạn.,See you later.,See you soon.,False
+Rất vui được gặp bạn.,Nice to meet you.,Nice to meet you.,True
+Bạn nói gì cơ?,What did you say?,What do you say?,False
+Tôi rất mệt.,I'm very tired.,I'm very tired.,True
+Cứ từ từ thôi.,Take your time.,Just take it slow.,False
+Tùy bạn thôi.,It's up to you.,It's up to you.,True
+Đừng lo lắng.,Do n't worry.,Do not worry.,False
+Chúc may mắn!,Good luck!,Good luck!,True
+Tôi đồng ý với bạn.,I agree with you.,I agree with you.,True
+Bạn có rảnh không?,Do you have a minute?,Are you free?,False
+Chuyện gì đang xảy ra vậy?,What's going on?,What's going on?,True
+Cảm ơn vì tất cả.,Thank you for everything.,Thanks for everything.,False
+Để tôi xem đã.,Let me see.,Let me see.,True
+Bạn đang làm gì thế?,What are you doing?,What are you doing?,True
+Tôi đang đợi xe buýt.,I'm waiting for the bus.,I'm waiting for the bus.,True
+Muộn còn hơn không.,Better late than never.,Better late than never.,True
+Thật là một ý kiến hay.,That's a good idea.,What a good idea.,False
+Tôi không quan tâm.,I do n't care.,I don't care.,False
+Bạn nghĩ sao?,What do you think?,What do you think?,True
+"Mặc dù đã cố gắng hết sức, đội bóng của chúng tôi vẫn không thể lật ngược tình thế trong những phút cuối của trận đấu.","Despite our best efforts, our team was unable to reverse the situation in the final minutes of the game.","Despite our best efforts, our team still could not turn the tide in the final minutes of the match.",False
+Dự án xây dựng tuyến đường sắt đô thị dự kiến sẽ được hoàn thành và đưa vào sử dụng trước cuối năm 2027.,The project of urban railroad construction is expected to be completed and put in use before the end of 2027.,The urban railway construction project is expected to be completed and put into use before the end of 2027.,False
+"Nếu như bạn báo cho tôi biết trước về sự thay đổi lịch trình, tôi đã không phải chờ đợi ở sân bay suốt hai tiếng đồng hồ.","If you had warned me about a change of schedule, I would n't have had to wait at the airport for two hours.","If you had informed me in advance about the schedule change, I wouldn't have had to wait at the airport for two hours.",False
+"Không chỉ xuất sắc trong học tập, cô ấy còn là một nhà hoạt động xã hội năng nổ với nhiều dự án vì cộng đồng.","Not only is she brilliant in learning, she's also an active social activist with multiple projects for the community.","Not only does she excel in studies, she is also an active social activist with many community projects.",False
+"Nhìn chung, việc áp dụng công nghệ trí tuệ nhân tạo vào quy trình sản xuất đã giúp doanh nghiệp tiết kiệm đáng kể chi phí vận hành.","In general, applying artificial intelligence technology to the manufacturing process has helped businesses to save significantly the cost of operating.","In general, applying artificial intelligence technology to the production process has helped businesses save significantly on operating costs.",False
+"Ngay sau khi ban giám đốc thông qua kế hoạch ngân sách mới, bộ phận marketing đã lập tức triển khai chiến dịch quảng cáo.","As soon as the board of directors passed the new budget, the marketing department immediately launched the advertising campaign.","Immediately after the board of directors approved the new budget plan, the marketing department immediately launched an advertising campaign.",False
+Sự gia tăng nhanh chóng của lượng khách du lịch quốc tế đã tạo ra áp lực lớn lên cơ sở hạ tầng giao thông của thành phố.,The rapid increase in the number of international tourists has created the pressure to raise the city's traffic infrastructure.,The rapid increase in international tourists has created great pressure on the city's transportation infrastructure.,False
+"Càng đọc nhiều sách về lịch sử văn hóa Việt Nam, anh ấy càng cảm thấy trân trọng những giá trị truyền thống của dân tộc.","The more books he read about the history of Vietnam, the more he felt valued the traditional values of the people.","The more books he reads about Vietnamese cultural history, the more he appreciates the traditional values ​​of the nation.",False
+Cuốn tiểu thuyết mà tôi vừa mượn từ thư viện ngày hôm qua thực sự hấp dẫn đến mức tôi không thể đặt nó xuống.,The novel that I just borrowed from the library yesterday was so exciting that I could n't put it down.,The novel I just borrowed from the library yesterday was so captivating that I couldn't put it down.,False
+"Trong bối cảnh nền kinh tế toàn cầu đang đối mặt với nhiều thách thức, việc đa dạng hóa chuỗi cung ứng là điều vô cùng cần thiết.","In the context of the global economy facing many challenges, diversity of supply chains is essential.","In a context where the global economy is facing many challenges, diversifying the supply chain is extremely necessary.",False
+"Trừ khi có sự đồng ý bằng văn bản từ phía đối tác, chúng ta không được phép tiết lộ bất kỳ thông tin bảo mật nào cho bên thứ ba.","Unless there's written consent from our partners, we're not allowed to reveal any security information to the third party.","Unless we have written consent from the partner, we are not allowed to disclose any confidential information to third parties.",False
+Khách sạn nơi chúng tôi nghỉ lại trong chuyến đi trăng mật tuần trước có tầm nhìn tuyệt đẹp ra bãi biển cát trắng.,The hotel where we stayed on our honeymoon last week had a beautiful view of the white sand beach.,The hotel where we stayed on our honeymoon last week had a beautiful view of the white sand beach.,True
+"Mặc dù tiếng Anh không phải là ngôn ngữ mẹ đẻ, bài thuyết trình của anh ấy vẫn rất trôi chảy và mang tính thuyết phục cao.","Although English is not his native language, his presentation is very smooth and very convincing.","Even though English is not his native language, his presentation was still very fluent and convincing.",False
+Việc bảo tồn các di sản văn hóa phi vật thể không chỉ là trách nhiệm của nhà nước mà còn là nghĩa vụ của mỗi người dân.,Preservation of non-animal cultural heritage is not only the responsibility of the state but also the duty of each citizen.,Preserving intangible cultural heritage is not only the responsibility of the state but also the obligation of every citizen.,False
+"Sau khi xem xét kỹ lưỡng tất cả các lựa chọn hiện có, hội đồng quản trị đã quyết định từ chối lời đề nghị sáp nhập.","After taking a closer look at all available options, the board decided to reject the offer of input.","After carefully considering all available options, the board of directors decided to reject the merger offer.",False
+"Nếu không nhờ có sự hướng dẫn tận tình của giáo sư, tôi chắc chắn đã không thể hoàn thành luận văn thạc sĩ đúng hạn.","If it were n't for the guidance of the professor, I would n't have been able to complete my master's essay on time.","If it weren't for the professor's dedicated guidance, I definitely would not have been able to complete my master's thesis on time.",False
+Thói quen thức khuya và ăn uống không điều độ trong thời gian dài có thể dẫn đến những hệ lụy nghiêm trọng đối với sức khỏe.,A long - term habit of staying up late and eating indecision can lead to serious health problems.,The habit of staying up late and eating irregularly for a long time can lead to serious health consequences.,False
+"Dù bạn có tin hay không, việc thiền định mỗi ngày 15 phút thực sự giúp giảm căng thẳng và cải thiện khả năng tập trung.","Whether you believe it or not, meditating every 15 - minute day actually reduces stress and improves concentration.","Believe it or not, meditating for 15 minutes every day actually helps reduce stress and improve concentration.",False
+"Hệ thống cảnh báo sớm, được lắp đặt dọc theo bờ biển, sẽ tự động phát tín hiệu khi phát hiện có rủi ro sóng thần.","The early warning system, installed along the coast, will automatically send a signal when a tsunami risk is detected.","The early warning system, installed along the coast, will automatically signal when a tsunami risk is detected.",False
+Chúng tôi xin chân thành cảm ơn quý khách hàng đã luôn đồng hành và ủng hộ sản phẩm của công ty trong suốt một thập kỷ qua.,We sincerely thank you for your company's company and support for the company's product over the last decade.,We would like to sincerely thank our customers for always accompanying and supporting the company's products over the past decade.,False
+"Vấn đề ô nhiễm môi trường tại các khu công nghiệp đang ngày càng trở nên nhức nhối, đòi hỏi các cơ quan chức năng phải vào cuộc ngay lập tức.","The problem of environmental pollution in industrial areas is becoming more and more painful, requiring that the authorities enter immediately.","The problem of environmental pollution in industrial zones is becoming increasingly painful, requiring the authorities to intervene immediately.",False
+"So với những mẫu điện thoại trước đây, phiên bản mới nhất này sở hữu dung lượng pin lớn hơn và camera có độ phân giải cao hơn.","Compared to previous phone models, this latest version has larger battery content and the camera has a higher resolution.","Compared to previous phone models, this latest version has a larger battery capacity and a higher resolution camera.",False
+"Bất kể thời tiết ngày mai như thế nào, chuyến dã ngoại của lớp chúng ta vẫn sẽ diễn ra theo đúng kế hoạch đã định.","No matter what the weather tomorrow, the class's picnic will continue as planned.","Regardless of the weather tomorrow, our class field trip will still take place as planned.",False
+Thật đáng tiếc khi một tòa nhà có giá trị lịch sử và kiến trúc độc đáo như vậy lại bị phá dỡ để xây dựng trung tâm thương mại.,It is a pity that such a building of historical value and such unique architecture is destroyed to build a shopping center.,It is a pity that a building with such unique historical and architectural value was demolished to build a shopping center.,False
+"Với tư cách là giám đốc dự án, tôi xin chịu hoàn toàn trách nhiệm về những sai sót đã xảy ra trong quá trình triển khai thi công.","As the director of the project, I take full responsibility for the mistakes that have occurred in the process of the public execution.","As the project director, I take full responsibility for errors that occurred during the construction process.",False
+[Trống],[ Chattering ],[Drum],False
+[Khoảng trắng],[Almost white],[White space],False
+987654321,987654321,987654321,True
+5.5,5.5,5.5,True
+~!@#$%^&()_+,~! <i>$%\&()_+</i>,,False
+<i>Nghiêng</i>,<i>Scramble</i>,<i>Tilt</i>,False
+<script>alert('Lỗi')</script>,<script>a Dyer('Lin')</i> <i>script</i>,<script>alert('Error')</script>,False
+"""DELETE FROM users;""","""DREATE F ROM users;""","""DELETE FROM users;""",False
+mốt hai ba,Type two three.,one day two three,False
+hjklzxcv,hjkzzxcv,hjklzxcv,False
+Lỗi 500: Server bận,500 Error: Busy Server,Error 500: Server busy,False
+Mua 1 tặng 1!,Buy one for one!,Buy 1 get 1 free!,False
+Hotline: 1900 1234,Hotline: 1900 1234,Hotline: 1900 1234,True
+Email: hotro@app.vn,Email: hotro@app.vn,Email: hotro@app.vn,True
+Link: https://zalo.me,Link: Ostreicherzalo.me.,Link: https://zalo.me,False
+Tuyệt vời 💯,That's great.,Great 💯,False
+Cảnh báo ⚠️,Warning,Warning ⚠️,False
+avatar_user_final.png,avatar_user_final.png,avatar_user_final.png,True
+\n Xin chào \t,Hello.,\n Hello \t,False
+Dấu nháy đơn',A single click mark',Apostrophe',False
+xin chào,Hello.,Hello,False
+XIN CHÀO,XIN CHINCIA,HELLO,False
+xIn ChÀo,xIn Chádo,Hello,False
+Hôm nay tôi đi siêu thị mua đồ ăn.,I went to the mall today to buy food.,Today I went to the supermarket to buy food.,False
+Hôm nay mình có một meeting lúc 3PM.,Today I have a microgram at 3PM.,Today I have a meeting at 3PM.,False
+Set kèo đi nhậu không?,You want to go for a drink?,Set a bet to go out drinking?,False
+OK bạn êy.,"OK, you're welcome.",OK my friend.,False
+1.500.000 VNĐ,1840 MILLIONS,"1,500,000 VND",False
+Nặng 50 kg,It weighs 50 kilograms.,Weight 50 kg,False
+Dài 20 mét,20 meters long.,20 meters long,False
+@nguoidung,@nguoidung,@nguoidung,True
+#khuyenmai,#khangamai,#khuyenmai,False
+Dữ liệu/Thông tin,Data/ Information,Data/Information,False
+null,,,False
+Không xác định,Unidentified,Not determined,False
+Đúng,Yes.,Correct,False
+Sai,Wrong.,Wrong,False
+Không có dữ liệu,No data.,No data available,False
+Đang xử lý... 100%,Processing 100%...,Processing... 100%,False
+Chữ lặp lặp lặp lặp lặp lại.,Repetitive words.,The word repeats repeats repeats.,False
