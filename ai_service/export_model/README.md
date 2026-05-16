@@ -1,13 +1,13 @@
-# Huấn luyện Mô hình (Training)
+# Tối ưu hóa Mô hình cho Di động (ONNX & Quantization)
 
-Thư mục này chứa các kịch bản Jupyter Notebook dùng để fine-tune mạng nơ-ron Seq2Seq phục vụ cho việc dịch thuật. Môi trường khuyến nghị để chạy các file này là **Google Colab (GPU Tesla T4)**.
+Để ứng dụng Flutter có thể chạy mô hình dịch thuật trực tiếp trên điện thoại mà không cần Internet (Offline Mode), mô hình gốc cần được thu gọn kích thước tối đa.
 
 ## Các tệp Notebook
-1. `Train_En_Vi.ipynb`: Huấn luyện mô hình dịch từ tiếng Anh sang tiếng Việt.
-2. `Train_Vi_En.ipynb`: Huấn luyện mô hình dịch từ tiếng Việt sang tiếng Anh.
+* `Mobile_En_Vi.ipynb`
+* `Mobile_Vi_En.ipynb`
 
-## Quy trình hoạt động
-1. **Kết nối Database:** Cài đặt `psycopg2` và `sqlalchemy` để kéo dữ liệu đồ thị tri thức từ Supabase.
-2. **Tiền xử lý:** Sử dụng `sentencepiece` và `sacremoses` để mã hóa (tokenize) văn bản.
-3. **Huấn luyện:** Sử dụng thư viện `transformers` của Hugging Face để điều chỉnh trọng số mô hình.
-4. **Lưu trữ:** Đẩy (Push) trực tiếp trọng số mô hình đã huấn luyện xong lên tổ chức Hugging Face Hub của nhóm (`Dich-Thuat-AI-Nhom-05`).
+## Kỹ thuật sử dụng
+Các notebook này thực hiện quy trình "ép cân" (Quantization) tự động bằng công cụ `optimum-cli`:
+1. **Export ONNX:** Chuyển đổi đồ thị tính toán của PyTorch sang định dạng ONNX.
+2. **Lượng tử hóa 8-bit:** Ép các trọng số 32-bit xuống số nguyên 8-bit. Quá trình này giúp giảm kích thước mô hình từ hàng trăm MB xuống **dưới 100MB** (khoảng 98MB) mà vẫn giữ được chất lượng dịch thuật.
+3. **Đóng gói:** Các file `.onnx` và tokenizer (`.spm`) được gom lại thành file `.zip` để đưa vào mã nguồn Flutter.
