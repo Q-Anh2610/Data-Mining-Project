@@ -14,6 +14,9 @@ python_version: '3.10'
 
 Thư mục chứa mã nguồn Web App bằng **Gradio 5.x**, tối ưu để triển khai trực tiếp lên Hugging Face Spaces.
 
+## Link Hugging Face
+https://huggingface.co/spaces/Dich-Thuat-AI-Nhom-05/dich-thuat-api-nhom5
+
 ##  Tính năng chính
 * **Dịch song ngữ:** Hỗ trợ hai chiều Anh ↔ Việt.
 * **Lazy Loading:** Chỉ nạp mô hình vào RAM khi có yêu cầu dịch đầu tiên, tránh tràn bộ nhớ.
