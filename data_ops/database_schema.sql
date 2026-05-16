@@ -80,5 +80,8 @@ CREATE TABLE translation_history (
 );
 
 -- Index tăng tốc tìm kiếm vector cho knowledge_graph
-CREATE INDEX ON knowledge_graph
-USING ivfflat (embedding vector_l2_ops) WITH (lists = 100);
+CREATE INDEX idx_entities_normalized
+ON knowledge_graph_entities(normalized_name);
+
+CREATE INDEX idx_aliases_normalized
+ON knowledge_graph_aliases(normalized_alias);
