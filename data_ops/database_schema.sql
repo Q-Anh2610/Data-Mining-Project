@@ -8,12 +8,63 @@ CREATE TABLE raw_data (
 );
 
 -- Bảng 2: knowledge graph
-CREATE TABLE knowledge_graph (
-    id           uuid PRIMARY KEY DEFAULT gen_random_uuid(),
-    entity_name  varchar(255) NOT NULL,
-    entity_type  varchar(100),
-    description  text,
-    embedding    vector(384)
+CREATE EXTENSION IF NOT EXISTS vector;
+
+CREATE TABLE knowledge_graph_entities (
+
+    id BIGSERIAL PRIMARY KEY,
+
+    entity_name TEXT NOT NULL,
+
+    normalized_name TEXT NOT NULL UNIQUE,
+
+    entity_type VARCHAR(50) NOT NULL,
+
+    language VARCHAR(10),
+
+    frequency INT DEFAULT 1,
+
+    preserve_in_translation BOOLEAN DEFAULT TRUE,
+
+    is_translatable BOOLEAN DEFAULT FALSE,
+
+    embedding VECTOR(384),
+
+    created_at TIMESTAMP DEFAULT NOW(),
+
+    updated_at TIMESTAMP DEFAULT NOW()
+);
+
+CREATE TABLE knowledge_graph_aliases (
+
+    id BIGSERIAL PRIMARY KEY,
+
+    entity_id BIGINT REFERENCES knowledge_graph_entities(id),
+
+    alias TEXT NOT NULL,
+
+    normalized_alias TEXT NOT NULL,
+
+    alias_type VARCHAR(30),
+
+    created_at TIMESTAMP DEFAULT NOW()
+);
+
+CREATE TABLE knowledge_graph_mentions (
+
+    id BIGSERIAL PRIMARY KEY,
+
+    entity_id BIGINT REFERENCES knowledge_graph_entities(id),
+
+    source_sentence TEXT,
+
+    detected_label VARCHAR(50),
+
+    confidence FLOAT,
+
+    language VARCHAR(10),
+
+    created_at TIMESTAMP DEFAULT NOW()
 );
 
 -- Bảng 3: lịch sử dịch
