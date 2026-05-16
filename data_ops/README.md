@@ -55,7 +55,7 @@ SUPABASE_URL=https://<project-ref>.supabase.co
 SUPABASE_KEY=<service_role_key>
 ```
 
-> ⚠️ **Lưu ý bảo mật:** Sử dụng **Service Role Key** (không phải Anon Key) để pipeline có đủ quyền đọc/ghi tất cả các bảng. Không commit file `.env` lên repository.
+>  **Lưu ý bảo mật:** Sử dụng **Service Role Key** (không phải Anon Key) để pipeline có đủ quyền đọc/ghi tất cả các bảng. Không commit file `.env` lên repository.
 
 Nếu cần kết nối trực tiếp qua PostgreSQL (dùng cho Google Colab hoặc SQLAlchemy):
 
