@@ -2,9 +2,9 @@
 
 Thư mục này chứa các kịch bản Jupyter Notebook dùng để fine-tune mạng nơ-ron Seq2Seq phục vụ cho việc dịch thuật. Môi trường khuyến nghị để chạy các file này là **Google Colab (GPU Tesla T4)**.
 
-## Các tệp Notebook
-1. `Train_En_Vi.ipynb`: Huấn luyện mô hình dịch từ tiếng Anh sang tiếng Việt.
-2. `Train_Vi_En.ipynb`: Huấn luyện mô hình dịch từ tiếng Việt sang tiếng Anh.
+## Các tệp Python
+1. `Train_En_Vi.py`: Huấn luyện mô hình dịch từ tiếng Anh sang tiếng Việt.
+2. `Train_Vi_En.py`: Huấn luyện mô hình dịch từ tiếng Việt sang tiếng Anh.
 
 ## link code colab
 https://colab.research.google.com/drive/1OoWBJDXAGo_yzEdYGl2USJZ2MjcjaTwd?usp=sharing
