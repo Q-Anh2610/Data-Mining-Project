@@ -23,7 +23,7 @@ Một số mục đích sử dụng chính:
 - Docker Compose
 
 ## Cấu trúc thư mục
-
+```text
 cms_drupal/
 ├── modules/              # Thư mục chứa module Drupal
 ├── profiles/             # Thư mục chứa profile cài đặt Drupal
